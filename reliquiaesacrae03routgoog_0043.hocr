@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./reliquiaesacrae03routgoog_0043.png"; bbox 0 0 4092 5150; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 3425 1705 3427 2285">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 3425 1705 3427 2285">
+     <span class='ocr_line' id='line_1_1' title="bbox 3425 1705 3427 2285; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 3425 1705 3427 2285; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 662 138 3432 5006">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 662 138 3432 5006">
+     <span class='ocr_line' id='line_1_2' title="bbox 662 138 3432 5006; textangle 90"><span class='ocrx_word' id='word_1_2' title='bbox 662 138 3432 5006; x_wconf 95' lang='lat' dir='ltr'><em>    </em></span> <span class='ocrx_word' id='word_1_3' title='bbox 2633 4297 3432 4309; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2237 4336 2699 4501">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2237 4336 2699 4501">
+     <span class='ocr_line' id='line_1_3' title="bbox 2244 4336 2633 4414; textangle 90"><span class='ocrx_word' id='word_1_4' title='bbox 2244 4336 2475 4413; x_wconf 57' lang='lat' dir='ltr'><em>„uz-v</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 2488 4342 2532 4401; x_wconf 42' lang='grc' dir='ltr'><em>ω.</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 2549 4359 2633 4414; x_wconf 64' lang='grc' dir='ltr'><em>ε.</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 2237 4418 2699 4501; textangle 90"><span class='ocrx_word' id='word_1_7' title='bbox 2237 4418 2699 4501; x_wconf 44' lang='lat' dir='ltr'><em>{vg-23..</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 2826 4540 3432 5006">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 2826 4540 3432 5006">
+     <span class='ocr_line' id='line_1_5' title="bbox 2826 4540 3432 5006; textangle 90"><span class='ocrx_word' id='word_1_8' title='bbox 2826 4540 3432 5006; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
